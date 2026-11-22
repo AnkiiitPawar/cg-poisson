@@ -1,0 +1,1704 @@
+solver,iteration,rel_residual
+"SOR (optimal omega)",1,4.023870e+00
+"SOR (optimal omega)",2,7.658503e+00
+"SOR (optimal omega)",3,1.113757e+01
+"SOR (optimal omega)",4,1.443919e+01
+"SOR (optimal omega)",5,1.756495e+01
+"SOR (optimal omega)",6,2.052022e+01
+"SOR (optimal omega)",7,2.331127e+01
+"SOR (optimal omega)",8,2.594456e+01
+"SOR (optimal omega)",9,2.842650e+01
+"SOR (optimal omega)",10,3.076331e+01
+"SOR (optimal omega)",11,3.296108e+01
+"SOR (optimal omega)",12,3.502565e+01
+"SOR (optimal omega)",13,3.696269e+01
+"SOR (optimal omega)",14,3.877765e+01
+"SOR (optimal omega)",15,4.047578e+01
+"SOR (optimal omega)",16,4.206213e+01
+"SOR (optimal omega)",17,4.354157e+01
+"SOR (optimal omega)",18,4.491878e+01
+"SOR (optimal omega)",19,4.619825e+01
+"SOR (optimal omega)",20,4.738432e+01
+"SOR (optimal omega)",21,4.848113e+01
+"SOR (optimal omega)",22,4.949268e+01
+"SOR (optimal omega)",23,5.042282e+01
+"SOR (optimal omega)",24,5.127521e+01
+"SOR (optimal omega)",25,5.205341e+01
+"SOR (optimal omega)",26,5.276081e+01
+"SOR (optimal omega)",27,5.340068e+01
+"SOR (optimal omega)",28,5.397614e+01
+"SOR (optimal omega)",29,5.449020e+01
+"SOR (optimal omega)",30,5.494575e+01
+"SOR (optimal omega)",31,5.534555e+01
+"SOR (optimal omega)",32,5.569225e+01
+"SOR (optimal omega)",33,5.598841e+01
+"SOR (optimal omega)",34,5.623647e+01
+"SOR (optimal omega)",35,5.643875e+01
+"SOR (optimal omega)",36,5.659752e+01
+"SOR (optimal omega)",37,5.671491e+01
+"SOR (optimal omega)",38,5.679299e+01
+"SOR (optimal omega)",39,5.683374e+01
+"SOR (optimal omega)",40,5.683904e+01
+"SOR (optimal omega)",41,5.681072e+01
+"SOR (optimal omega)",42,5.675050e+01
+"SOR (optimal omega)",43,5.666006e+01
+"SOR (optimal omega)",44,5.654097e+01
+"SOR (optimal omega)",45,5.639477e+01
+"SOR (optimal omega)",46,5.622292e+01
+"SOR (optimal omega)",47,5.602681e+01
+"SOR (optimal omega)",48,5.580779e+01
+"SOR (optimal omega)",49,5.556712e+01
+"SOR (optimal omega)",50,5.530603e+01
+"SOR (optimal omega)",51,5.502569e+01
+"SOR (optimal omega)",52,5.472723e+01
+"SOR (optimal omega)",53,5.441171e+01
+"SOR (optimal omega)",54,5.408015e+01
+"SOR (optimal omega)",55,5.373354e+01
+"SOR (optimal omega)",56,5.337282e+01
+"SOR (optimal omega)",57,5.299886e+01
+"SOR (optimal omega)",58,5.261253e+01
+"SOR (optimal omega)",59,5.221465e+01
+"SOR (optimal omega)",60,5.180599e+01
+"SOR (optimal omega)",61,5.138729e+01
+"SOR (optimal omega)",62,5.095928e+01
+"SOR (optimal omega)",63,5.052262e+01
+"SOR (optimal omega)",64,5.007797e+01
+"SOR (optimal omega)",65,4.962594e+01
+"SOR (optimal omega)",66,4.916713e+01
+"SOR (optimal omega)",67,4.870209e+01
+"SOR (optimal omega)",68,4.823136e+01
+"SOR (optimal omega)",69,4.775546e+01
+"SOR (optimal omega)",70,4.727488e+01
+"SOR (optimal omega)",71,4.679008e+01
+"SOR (optimal omega)",72,4.630149e+01
+"SOR (optimal omega)",73,4.580956e+01
+"SOR (optimal omega)",74,4.531468e+01
+"SOR (optimal omega)",75,4.481723e+01
+"SOR (optimal omega)",76,4.431757e+01
+"SOR (optimal omega)",77,4.381607e+01
+"SOR (optimal omega)",78,4.331304e+01
+"SOR (optimal omega)",79,4.280881e+01
+"SOR (optimal omega)",80,4.230367e+01
+"SOR (optimal omega)",81,4.179791e+01
+"SOR (optimal omega)",82,4.129180e+01
+"SOR (optimal omega)",83,4.078560e+01
+"SOR (optimal omega)",84,4.027955e+01
+"SOR (optimal omega)",85,3.977389e+01
+"SOR (optimal omega)",86,3.926883e+01
+"SOR (optimal omega)",87,3.876460e+01
+"SOR (optimal omega)",88,3.826137e+01
+"SOR (optimal omega)",89,3.775935e+01
+"SOR (optimal omega)",90,3.725872e+01
+"SOR (optimal omega)",91,3.675967e+01
+"SOR (optimal omega)",92,3.626238e+01
+"SOR (optimal omega)",93,3.576712e+01
+"SOR (optimal omega)",94,3.527415e+01
+"SOR (optimal omega)",95,3.478369e+01
+"SOR (optimal omega)",96,3.429596e+01
+"SOR (optimal omega)",97,3.381116e+01
+"SOR (optimal omega)",98,3.332946e+01
+"SOR (optimal omega)",99,3.285105e+01
+"SOR (optimal omega)",100,3.237607e+01
+"SOR (optimal omega)",101,3.190468e+01
+"SOR (optimal omega)",102,3.143699e+01
+"SOR (optimal omega)",103,3.097315e+01
+"SOR (optimal omega)",104,3.051325e+01
+"SOR (optimal omega)",105,3.005740e+01
+"SOR (optimal omega)",106,2.960570e+01
+"SOR (optimal omega)",107,2.915822e+01
+"SOR (optimal omega)",108,2.871504e+01
+"SOR (optimal omega)",109,2.827623e+01
+"SOR (optimal omega)",110,2.784185e+01
+"SOR (optimal omega)",111,2.741195e+01
+"SOR (optimal omega)",112,2.698658e+01
+"SOR (optimal omega)",113,2.656578e+01
+"SOR (optimal omega)",114,2.614959e+01
+"SOR (optimal omega)",115,2.573803e+01
+"SOR (optimal omega)",116,2.533113e+01
+"SOR (optimal omega)",117,2.492891e+01
+"SOR (optimal omega)",118,2.453138e+01
+"SOR (optimal omega)",119,2.413855e+01
+"SOR (optimal omega)",120,2.375044e+01
+"SOR (optimal omega)",121,2.336703e+01
+"SOR (optimal omega)",122,2.298834e+01
+"SOR (optimal omega)",123,2.261436e+01
+"SOR (optimal omega)",124,2.224508e+01
+"SOR (optimal omega)",125,2.188049e+01
+"SOR (optimal omega)",126,2.152057e+01
+"SOR (optimal omega)",127,2.116532e+01
+"SOR (optimal omega)",128,2.081472e+01
+"SOR (optimal omega)",129,2.046874e+01
+"SOR (optimal omega)",130,2.012737e+01
+"SOR (optimal omega)",131,1.979057e+01
+"SOR (optimal omega)",132,1.945834e+01
+"SOR (optimal omega)",133,1.913063e+01
+"SOR (optimal omega)",134,1.880741e+01
+"SOR (optimal omega)",135,1.848867e+01
+"SOR (optimal omega)",136,1.817437e+01
+"SOR (optimal omega)",137,1.786448e+01
+"SOR (optimal omega)",138,1.755896e+01
+"SOR (optimal omega)",139,1.725777e+01
+"SOR (optimal omega)",140,1.696090e+01
+"SOR (optimal omega)",141,1.666829e+01
+"SOR (optimal omega)",142,1.637991e+01
+"SOR (optimal omega)",143,1.609573e+01
+"SOR (optimal omega)",144,1.581570e+01
+"SOR (optimal omega)",145,1.553979e+01
+"SOR (optimal omega)",146,1.526797e+01
+"SOR (optimal omega)",147,1.500018e+01
+"SOR (optimal omega)",148,1.473640e+01
+"SOR (optimal omega)",149,1.447657e+01
+"SOR (optimal omega)",150,1.422067e+01
+"SOR (optimal omega)",151,1.396865e+01
+"SOR (optimal omega)",152,1.372047e+01
+"SOR (optimal omega)",153,1.347609e+01
+"SOR (optimal omega)",154,1.323548e+01
+"SOR (optimal omega)",155,1.299858e+01
+"SOR (optimal omega)",156,1.276536e+01
+"SOR (optimal omega)",157,1.253578e+01
+"SOR (optimal omega)",158,1.230980e+01
+"SOR (optimal omega)",159,1.208738e+01
+"SOR (optimal omega)",160,1.186848e+01
+"SOR (optimal omega)",161,1.165305e+01
+"SOR (optimal omega)",162,1.144106e+01
+"SOR (optimal omega)",163,1.123247e+01
+"SOR (optimal omega)",164,1.102724e+01
+"SOR (optimal omega)",165,1.082533e+01
+"SOR (optimal omega)",166,1.062669e+01
+"SOR (optimal omega)",167,1.043130e+01
+"SOR (optimal omega)",168,1.023911e+01
+"SOR (optimal omega)",169,1.005008e+01
+"SOR (optimal omega)",170,9.864179e+00
+"SOR (optimal omega)",171,9.681363e+00
+"SOR (optimal omega)",172,9.501596e+00
+"SOR (optimal omega)",173,9.324841e+00
+"SOR (optimal omega)",174,9.151060e+00
+"SOR (optimal omega)",175,8.980217e+00
+"SOR (optimal omega)",176,8.812275e+00
+"SOR (optimal omega)",177,8.647197e+00
+"SOR (optimal omega)",178,8.484949e+00
+"SOR (optimal omega)",179,8.325493e+00
+"SOR (optimal omega)",180,8.168795e+00
+"SOR (optimal omega)",181,8.014819e+00
+"SOR (optimal omega)",182,7.863528e+00
+"SOR (optimal omega)",183,7.714885e+00
+"SOR (optimal omega)",184,7.568850e+00
+"SOR (optimal omega)",185,7.425381e+00
+"SOR (optimal omega)",186,7.284437e+00
+"SOR (optimal omega)",187,7.145981e+00
+"SOR (optimal omega)",188,7.009973e+00
+"SOR (optimal omega)",189,6.876374e+00
+"SOR (optimal omega)",190,6.745146e+00
+"SOR (optimal omega)",191,6.616253e+00
+"SOR (optimal omega)",192,6.489656e+00
+"SOR (optimal omega)",193,6.365320e+00
+"SOR (optimal omega)",194,6.243207e+00
+"SOR (optimal omega)",195,6.123282e+00
+"SOR (optimal omega)",196,6.005511e+00
+"SOR (optimal omega)",197,5.889857e+00
+"SOR (optimal omega)",198,5.776287e+00
+"SOR (optimal omega)",199,5.664766e+00
+"SOR (optimal omega)",200,5.555262e+00
+"SOR (optimal omega)",201,5.447741e+00
+"SOR (optimal omega)",202,5.342171e+00
+"SOR (optimal omega)",203,5.238520e+00
+"SOR (optimal omega)",204,5.136755e+00
+"SOR (optimal omega)",205,5.036847e+00
+"SOR (optimal omega)",206,4.938763e+00
+"SOR (optimal omega)",207,4.842474e+00
+"SOR (optimal omega)",208,4.747951e+00
+"SOR (optimal omega)",209,4.655163e+00
+"SOR (optimal omega)",210,4.564081e+00
+"SOR (optimal omega)",211,4.474678e+00
+"SOR (optimal omega)",212,4.386924e+00
+"SOR (optimal omega)",213,4.300792e+00
+"SOR (optimal omega)",214,4.216255e+00
+"SOR (optimal omega)",215,4.133286e+00
+"SOR (optimal omega)",216,4.051859e+00
+"SOR (optimal omega)",217,3.971946e+00
+"SOR (optimal omega)",218,3.893524e+00
+"SOR (optimal omega)",219,3.816565e+00
+"SOR (optimal omega)",220,3.741046e+00
+"SOR (optimal omega)",221,3.666941e+00
+"SOR (optimal omega)",222,3.594227e+00
+"SOR (optimal omega)",223,3.522879e+00
+"SOR (optimal omega)",224,3.452874e+00
+"SOR (optimal omega)",225,3.384190e+00
+"SOR (optimal omega)",226,3.316803e+00
+"SOR (optimal omega)",227,3.250691e+00
+"SOR (optimal omega)",228,3.185831e+00
+"SOR (optimal omega)",229,3.122203e+00
+"SOR (optimal omega)",230,3.059784e+00
+"SOR (optimal omega)",231,2.998554e+00
+"SOR (optimal omega)",232,2.938492e+00
+"SOR (optimal omega)",233,2.879577e+00
+"SOR (optimal omega)",234,2.821790e+00
+"SOR (optimal omega)",235,2.765110e+00
+"SOR (optimal omega)",236,2.709518e+00
+"SOR (optimal omega)",237,2.654995e+00
+"SOR (optimal omega)",238,2.601522e+00
+"SOR (optimal omega)",239,2.549080e+00
+"SOR (optimal omega)",240,2.497651e+00
+"SOR (optimal omega)",241,2.447217e+00
+"SOR (optimal omega)",242,2.397760e+00
+"SOR (optimal omega)",243,2.349263e+00
+"SOR (optimal omega)",244,2.301708e+00
+"SOR (optimal omega)",245,2.255079e+00
+"SOR (optimal omega)",246,2.209359e+00
+"SOR (optimal omega)",247,2.164531e+00
+"SOR (optimal omega)",248,2.120579e+00
+"SOR (optimal omega)",249,2.077487e+00
+"SOR (optimal omega)",250,2.035240e+00
+"SOR (optimal omega)",251,1.993822e+00
+"SOR (optimal omega)",252,1.953218e+00
+"SOR (optimal omega)",253,1.913413e+00
+"SOR (optimal omega)",254,1.874391e+00
+"SOR (optimal omega)",255,1.836140e+00
+"SOR (optimal omega)",256,1.798643e+00
+"SOR (optimal omega)",257,1.761888e+00
+"SOR (optimal omega)",258,1.725860e+00
+"SOR (optimal omega)",259,1.690545e+00
+"SOR (optimal omega)",260,1.655931e+00
+"SOR (optimal omega)",261,1.622004e+00
+"SOR (optimal omega)",262,1.588750e+00
+"SOR (optimal omega)",263,1.556157e+00
+"SOR (optimal omega)",264,1.524213e+00
+"SOR (optimal omega)",265,1.492905e+00
+"SOR (optimal omega)",266,1.462220e+00
+"SOR (optimal omega)",267,1.432147e+00
+"SOR (optimal omega)",268,1.402673e+00
+"SOR (optimal omega)",269,1.373787e+00
+"SOR (optimal omega)",270,1.345477e+00
+"SOR (optimal omega)",271,1.317733e+00
+"SOR (optimal omega)",272,1.290542e+00
+"SOR (optimal omega)",273,1.263894e+00
+"SOR (optimal omega)",274,1.237779e+00
+"SOR (optimal omega)",275,1.212186e+00
+"SOR (optimal omega)",276,1.187106e+00
+"SOR (optimal omega)",277,1.162528e+00
+"SOR (optimal omega)",278,1.138444e+00
+"SOR (optimal omega)",279,1.114843e+00
+"SOR (optimal omega)",280,1.091716e+00
+"SOR (optimal omega)",281,1.069055e+00
+"SOR (optimal omega)",282,1.046850e+00
+"SOR (optimal omega)",283,1.025092e+00
+"SOR (optimal omega)",284,1.003773e+00
+"SOR (optimal omega)",285,9.828848e-01
+"SOR (optimal omega)",286,9.624186e-01
+"SOR (optimal omega)",287,9.423664e-01
+"SOR (optimal omega)",288,9.227201e-01
+"SOR (optimal omega)",289,9.034720e-01
+"SOR (optimal omega)",290,8.846143e-01
+"SOR (optimal omega)",291,8.661393e-01
+"SOR (optimal omega)",292,8.480398e-01
+"SOR (optimal omega)",293,8.303084e-01
+"SOR (optimal omega)",294,8.129378e-01
+"SOR (optimal omega)",295,7.959212e-01
+"SOR (optimal omega)",296,7.792515e-01
+"SOR (optimal omega)",297,7.629220e-01
+"SOR (optimal omega)",298,7.469261e-01
+"SOR (optimal omega)",299,7.312571e-01
+"SOR (optimal omega)",300,7.159088e-01
+"SOR (optimal omega)",301,7.008747e-01
+"SOR (optimal omega)",302,6.861487e-01
+"SOR (optimal omega)",303,6.717247e-01
+"SOR (optimal omega)",304,6.575969e-01
+"SOR (optimal omega)",305,6.437592e-01
+"SOR (optimal omega)",306,6.302061e-01
+"SOR (optimal omega)",307,6.169318e-01
+"SOR (optimal omega)",308,6.039309e-01
+"SOR (optimal omega)",309,5.911978e-01
+"SOR (optimal omega)",310,5.787273e-01
+"SOR (optimal omega)",311,5.665142e-01
+"SOR (optimal omega)",312,5.545533e-01
+"SOR (optimal omega)",313,5.428396e-01
+"SOR (optimal omega)",314,5.313681e-01
+"SOR (optimal omega)",315,5.201340e-01
+"SOR (optimal omega)",316,5.091326e-01
+"SOR (optimal omega)",317,4.983591e-01
+"SOR (optimal omega)",318,4.878090e-01
+"SOR (optimal omega)",319,4.774778e-01
+"SOR (optimal omega)",320,4.673610e-01
+"SOR (optimal omega)",321,4.574545e-01
+"SOR (optimal omega)",322,4.477538e-01
+"SOR (optimal omega)",323,4.382548e-01
+"SOR (optimal omega)",324,4.289535e-01
+"SOR (optimal omega)",325,4.198459e-01
+"SOR (optimal omega)",326,4.109280e-01
+"SOR (optimal omega)",327,4.021959e-01
+"SOR (optimal omega)",328,3.936459e-01
+"SOR (optimal omega)",329,3.852742e-01
+"SOR (optimal omega)",330,3.770773e-01
+"SOR (optimal omega)",331,3.690515e-01
+"SOR (optimal omega)",332,3.611934e-01
+"SOR (optimal omega)",333,3.534995e-01
+"SOR (optimal omega)",334,3.459665e-01
+"SOR (optimal omega)",335,3.385911e-01
+"SOR (optimal omega)",336,3.313699e-01
+"SOR (optimal omega)",337,3.243000e-01
+"SOR (optimal omega)",338,3.173781e-01
+"SOR (optimal omega)",339,3.106012e-01
+"SOR (optimal omega)",340,3.039664e-01
+"SOR (optimal omega)",341,2.974706e-01
+"SOR (optimal omega)",342,2.911111e-01
+"SOR (optimal omega)",343,2.848850e-01
+"SOR (optimal omega)",344,2.787896e-01
+"SOR (optimal omega)",345,2.728222e-01
+"SOR (optimal omega)",346,2.669802e-01
+"SOR (optimal omega)",347,2.612609e-01
+"SOR (optimal omega)",348,2.556619e-01
+"SOR (optimal omega)",349,2.501806e-01
+"SOR (optimal omega)",350,2.448146e-01
+"SOR (optimal omega)",351,2.395616e-01
+"SOR (optimal omega)",352,2.344192e-01
+"SOR (optimal omega)",353,2.293851e-01
+"SOR (optimal omega)",354,2.244572e-01
+"SOR (optimal omega)",355,2.196332e-01
+"SOR (optimal omega)",356,2.149110e-01
+"SOR (optimal omega)",357,2.102886e-01
+"SOR (optimal omega)",358,2.057638e-01
+"SOR (optimal omega)",359,2.013346e-01
+"SOR (optimal omega)",360,1.969992e-01
+"SOR (optimal omega)",361,1.927556e-01
+"SOR (optimal omega)",362,1.886020e-01
+"SOR (optimal omega)",363,1.845364e-01
+"SOR (optimal omega)",364,1.805571e-01
+"SOR (optimal omega)",365,1.766624e-01
+"SOR (optimal omega)",366,1.728504e-01
+"SOR (optimal omega)",367,1.691194e-01
+"SOR (optimal omega)",368,1.654677e-01
+"SOR (optimal omega)",369,1.618938e-01
+"SOR (optimal omega)",370,1.583959e-01
+"SOR (optimal omega)",371,1.549725e-01
+"SOR (optimal omega)",372,1.516221e-01
+"SOR (optimal omega)",373,1.483430e-01
+"SOR (optimal omega)",374,1.451339e-01
+"SOR (optimal omega)",375,1.419932e-01
+"SOR (optimal omega)",376,1.389196e-01
+"SOR (optimal omega)",377,1.359116e-01
+"SOR (optimal omega)",378,1.329678e-01
+"SOR (optimal omega)",379,1.300869e-01
+"SOR (optimal omega)",380,1.272676e-01
+"SOR (optimal omega)",381,1.245086e-01
+"SOR (optimal omega)",382,1.218086e-01
+"SOR (optimal omega)",383,1.191664e-01
+"SOR (optimal omega)",384,1.165807e-01
+"SOR (optimal omega)",385,1.140505e-01
+"SOR (optimal omega)",386,1.115744e-01
+"SOR (optimal omega)",387,1.091514e-01
+"SOR (optimal omega)",388,1.067803e-01
+"SOR (optimal omega)",389,1.044600e-01
+"SOR (optimal omega)",390,1.021896e-01
+"SOR (optimal omega)",391,9.996784e-02
+"SOR (optimal omega)",392,9.779378e-02
+"SOR (optimal omega)",393,9.566640e-02
+"SOR (optimal omega)",394,9.358471e-02
+"SOR (optimal omega)",395,9.154775e-02
+"SOR (optimal omega)",396,8.955456e-02
+"SOR (optimal omega)",397,8.760422e-02
+"SOR (optimal omega)",398,8.569582e-02
+"SOR (optimal omega)",399,8.382847e-02
+"SOR (optimal omega)",400,8.200130e-02
+"SOR (optimal omega)",401,8.021345e-02
+"SOR (optimal omega)",402,7.846409e-02
+"SOR (optimal omega)",403,7.675241e-02
+"SOR (optimal omega)",404,7.507759e-02
+"SOR (optimal omega)",405,7.343887e-02
+"SOR (optimal omega)",406,7.183546e-02
+"SOR (optimal omega)",407,7.026663e-02
+"SOR (optimal omega)",408,6.873163e-02
+"SOR (optimal omega)",409,6.722974e-02
+"SOR (optimal omega)",410,6.576026e-02
+"SOR (optimal omega)",411,6.432250e-02
+"SOR (optimal omega)",412,6.291578e-02
+"SOR (optimal omega)",413,6.153944e-02
+"SOR (optimal omega)",414,6.019284e-02
+"SOR (optimal omega)",415,5.887535e-02
+"SOR (optimal omega)",416,5.758633e-02
+"SOR (optimal omega)",417,5.632519e-02
+"SOR (optimal omega)",418,5.509133e-02
+"SOR (optimal omega)",419,5.388417e-02
+"SOR (optimal omega)",420,5.270314e-02
+"SOR (optimal omega)",421,5.154769e-02
+"SOR (optimal omega)",422,5.041726e-02
+"SOR (optimal omega)",423,4.931133e-02
+"SOR (optimal omega)",424,4.822937e-02
+"SOR (optimal omega)",425,4.717087e-02
+"SOR (optimal omega)",426,4.613534e-02
+"SOR (optimal omega)",427,4.512227e-02
+"SOR (optimal omega)",428,4.413120e-02
+"SOR (optimal omega)",429,4.316165e-02
+"SOR (optimal omega)",430,4.221316e-02
+"SOR (optimal omega)",431,4.128529e-02
+"SOR (optimal omega)",432,4.037759e-02
+"SOR (optimal omega)",433,3.948963e-02
+"SOR (optimal omega)",434,3.862100e-02
+"SOR (optimal omega)",435,3.777127e-02
+"SOR (optimal omega)",436,3.694005e-02
+"SOR (optimal omega)",437,3.612693e-02
+"SOR (optimal omega)",438,3.533154e-02
+"SOR (optimal omega)",439,3.455348e-02
+"SOR (optimal omega)",440,3.379240e-02
+"SOR (optimal omega)",441,3.304792e-02
+"SOR (optimal omega)",442,3.231969e-02
+"SOR (optimal omega)",443,3.160736e-02
+"SOR (optimal omega)",444,3.091059e-02
+"SOR (optimal omega)",445,3.022904e-02
+"SOR (optimal omega)",446,2.956238e-02
+"SOR (optimal omega)",447,2.891030e-02
+"SOR (optimal omega)",448,2.827248e-02
+"SOR (optimal omega)",449,2.764860e-02
+"SOR (optimal omega)",450,2.703837e-02
+"SOR (optimal omega)",451,2.644148e-02
+"SOR (optimal omega)",452,2.585766e-02
+"SOR (optimal omega)",453,2.528661e-02
+"SOR (optimal omega)",454,2.472805e-02
+"SOR (optimal omega)",455,2.418171e-02
+"SOR (optimal omega)",456,2.364734e-02
+"SOR (optimal omega)",457,2.312466e-02
+"SOR (optimal omega)",458,2.261343e-02
+"SOR (optimal omega)",459,2.211339e-02
+"SOR (optimal omega)",460,2.162431e-02
+"SOR (optimal omega)",461,2.114595e-02
+"SOR (optimal omega)",462,2.067807e-02
+"SOR (optimal omega)",463,2.022045e-02
+"SOR (optimal omega)",464,1.977286e-02
+"SOR (optimal omega)",465,1.933509e-02
+"SOR (optimal omega)",466,1.890692e-02
+"SOR (optimal omega)",467,1.848814e-02
+"SOR (optimal omega)",468,1.807856e-02
+"SOR (optimal omega)",469,1.767796e-02
+"SOR (optimal omega)",470,1.728617e-02
+"SOR (optimal omega)",471,1.690297e-02
+"SOR (optimal omega)",472,1.652819e-02
+"SOR (optimal omega)",473,1.616165e-02
+"SOR (optimal omega)",474,1.580316e-02
+"SOR (optimal omega)",475,1.545255e-02
+"SOR (optimal omega)",476,1.510965e-02
+"SOR (optimal omega)",477,1.477429e-02
+"SOR (optimal omega)",478,1.444631e-02
+"SOR (optimal omega)",479,1.412554e-02
+"SOR (optimal omega)",480,1.381183e-02
+"SOR (optimal omega)",481,1.350503e-02
+"SOR (optimal omega)",482,1.320498e-02
+"SOR (optimal omega)",483,1.291154e-02
+"SOR (optimal omega)",484,1.262456e-02
+"SOR (optimal omega)",485,1.234391e-02
+"SOR (optimal omega)",486,1.206944e-02
+"SOR (optimal omega)",487,1.180102e-02
+"SOR (optimal omega)",488,1.153853e-02
+"SOR (optimal omega)",489,1.128182e-02
+"SOR (optimal omega)",490,1.103077e-02
+"SOR (optimal omega)",491,1.078526e-02
+"SOR (optimal omega)",492,1.054518e-02
+"SOR (optimal omega)",493,1.031039e-02
+"SOR (optimal omega)",494,1.008079e-02
+"SOR (optimal omega)",495,9.856261e-03
+"SOR (optimal omega)",496,9.636693e-03
+"SOR (optimal omega)",497,9.421978e-03
+"SOR (optimal omega)",498,9.212009e-03
+"SOR (optimal omega)",499,9.006683e-03
+"SOR (optimal omega)",500,8.805899e-03
+"SOR (optimal omega)",501,8.609557e-03
+"SOR (optimal omega)",502,8.417560e-03
+"SOR (optimal omega)",503,8.229813e-03
+"SOR (optimal omega)",504,8.046223e-03
+"SOR (optimal omega)",505,7.866698e-03
+"SOR (optimal omega)",506,7.691150e-03
+"SOR (optimal omega)",507,7.519492e-03
+"SOR (optimal omega)",508,7.351638e-03
+"SOR (optimal omega)",509,7.187504e-03
+"SOR (optimal omega)",510,7.027010e-03
+"SOR (optimal omega)",511,6.870075e-03
+"SOR (optimal omega)",512,6.716621e-03
+"SOR (optimal omega)",513,6.566571e-03
+"SOR (optimal omega)",514,6.419851e-03
+"SOR (optimal omega)",515,6.276387e-03
+"SOR (optimal omega)",516,6.136108e-03
+"SOR (optimal omega)",517,5.998944e-03
+"SOR (optimal omega)",518,5.864825e-03
+"SOR (optimal omega)",519,5.733685e-03
+"SOR (optimal omega)",520,5.605458e-03
+"SOR (optimal omega)",521,5.480080e-03
+"SOR (optimal omega)",522,5.357488e-03
+"SOR (optimal omega)",523,5.237619e-03
+"SOR (optimal omega)",524,5.120416e-03
+"SOR (optimal omega)",525,5.005817e-03
+"SOR (optimal omega)",526,4.893766e-03
+"SOR (optimal omega)",527,4.784206e-03
+"SOR (optimal omega)",528,4.677082e-03
+"SOR (optimal omega)",529,4.572341e-03
+"SOR (optimal omega)",530,4.469929e-03
+"SOR (optimal omega)",531,4.369795e-03
+"SOR (optimal omega)",532,4.271888e-03
+"SOR (optimal omega)",533,4.176159e-03
+"SOR (optimal omega)",534,4.082560e-03
+"SOR (optimal omega)",535,3.991044e-03
+"SOR (optimal omega)",536,3.901565e-03
+"SOR (optimal omega)",537,3.814078e-03
+"SOR (optimal omega)",538,3.728537e-03
+"SOR (optimal omega)",539,3.644902e-03
+"SOR (optimal omega)",540,3.563129e-03
+"SOR (optimal omega)",541,3.483177e-03
+"SOR (optimal omega)",542,3.405007e-03
+"SOR (optimal omega)",543,3.328579e-03
+"SOR (optimal omega)",544,3.253855e-03
+"SOR (optimal omega)",545,3.180797e-03
+"SOR (optimal omega)",546,3.109368e-03
+"SOR (optimal omega)",547,3.039533e-03
+"SOR (optimal omega)",548,2.971256e-03
+"SOR (optimal omega)",549,2.904503e-03
+"SOR (optimal omega)",550,2.839239e-03
+"SOR (optimal omega)",551,2.775433e-03
+"SOR (optimal omega)",552,2.713051e-03
+"SOR (optimal omega)",553,2.652063e-03
+"SOR (optimal omega)",554,2.592437e-03
+"SOR (optimal omega)",555,2.534143e-03
+"SOR (optimal omega)",556,2.477152e-03
+"SOR (optimal omega)",557,2.421434e-03
+"SOR (optimal omega)",558,2.366962e-03
+"SOR (optimal omega)",559,2.313709e-03
+"SOR (optimal omega)",560,2.261646e-03
+"SOR (optimal omega)",561,2.210747e-03
+"SOR (optimal omega)",562,2.160987e-03
+"SOR (optimal omega)",563,2.112341e-03
+"SOR (optimal omega)",564,2.064783e-03
+"SOR (optimal omega)",565,2.018290e-03
+"SOR (optimal omega)",566,1.972838e-03
+"SOR (optimal omega)",567,1.928403e-03
+"SOR (optimal omega)",568,1.884964e-03
+"SOR (optimal omega)",569,1.842498e-03
+"SOR (optimal omega)",570,1.800983e-03
+"SOR (optimal omega)",571,1.760398e-03
+"SOR (optimal omega)",572,1.720723e-03
+"SOR (optimal omega)",573,1.681937e-03
+"SOR (optimal omega)",574,1.644021e-03
+"SOR (optimal omega)",575,1.606955e-03
+"SOR (optimal omega)",576,1.570720e-03
+"SOR (optimal omega)",577,1.535297e-03
+"SOR (optimal omega)",578,1.500670e-03
+"SOR (optimal omega)",579,1.466819e-03
+"SOR (optimal omega)",580,1.433728e-03
+"SOR (optimal omega)",581,1.401379e-03
+"SOR (optimal omega)",582,1.369756e-03
+"SOR (optimal omega)",583,1.338844e-03
+"SOR (optimal omega)",584,1.308625e-03
+"SOR (optimal omega)",585,1.279084e-03
+"SOR (optimal omega)",586,1.250207e-03
+"SOR (optimal omega)",587,1.221979e-03
+"SOR (optimal omega)",588,1.194385e-03
+"SOR (optimal omega)",589,1.167410e-03
+"SOR (optimal omega)",590,1.141042e-03
+"SOR (optimal omega)",591,1.115265e-03
+"SOR (optimal omega)",592,1.090069e-03
+"SOR (optimal omega)",593,1.065438e-03
+"SOR (optimal omega)",594,1.041361e-03
+"SOR (optimal omega)",595,1.017825e-03
+"SOR (optimal omega)",596,9.948186e-04
+"SOR (optimal omega)",597,9.723292e-04
+"SOR (optimal omega)",598,9.503454e-04
+"SOR (optimal omega)",599,9.288560e-04
+"SOR (optimal omega)",600,9.078499e-04
+"SOR (optimal omega)",601,8.873163e-04
+"SOR (optimal omega)",602,8.672446e-04
+"SOR (optimal omega)",603,8.476245e-04
+"SOR (optimal omega)",604,8.284458e-04
+"SOR (optimal omega)",605,8.096987e-04
+"SOR (optimal omega)",606,7.913735e-04
+"SOR (optimal omega)",607,7.734608e-04
+"SOR (optimal omega)",608,7.559513e-04
+"SOR (optimal omega)",609,7.388360e-04
+"SOR (optimal omega)",610,7.221060e-04
+"SOR (optimal omega)",611,7.057529e-04
+"SOR (optimal omega)",612,6.897681e-04
+"SOR (optimal omega)",613,6.741433e-04
+"SOR (optimal omega)",614,6.588706e-04
+"SOR (optimal omega)",615,6.439421e-04
+"SOR (optimal omega)",616,6.293500e-04
+"SOR (optimal omega)",617,6.150869e-04
+"SOR (optimal omega)",618,6.011453e-04
+"SOR (optimal omega)",619,5.875181e-04
+"SOR (optimal omega)",620,5.741983e-04
+"SOR (optimal omega)",621,5.611790e-04
+"SOR (optimal omega)",622,5.484534e-04
+"SOR (optimal omega)",623,5.360150e-04
+"SOR (optimal omega)",624,5.238573e-04
+"SOR (optimal omega)",625,5.119741e-04
+"SOR (optimal omega)",626,5.003593e-04
+"SOR (optimal omega)",627,4.890068e-04
+"SOR (optimal omega)",628,4.779107e-04
+"SOR (optimal omega)",629,4.670653e-04
+"SOR (optimal omega)",630,4.564650e-04
+"SOR (optimal omega)",631,4.461042e-04
+"SOR (optimal omega)",632,4.359776e-04
+"SOR (optimal omega)",633,4.260799e-04
+"SOR (optimal omega)",634,4.164059e-04
+"SOR (optimal omega)",635,4.069506e-04
+"SOR (optimal omega)",636,3.977090e-04
+"SOR (optimal omega)",637,3.886764e-04
+"SOR (optimal omega)",638,3.798481e-04
+"SOR (optimal omega)",639,3.712194e-04
+"SOR (optimal omega)",640,3.627859e-04
+"SOR (optimal omega)",641,3.545432e-04
+"SOR (optimal omega)",642,3.464869e-04
+"SOR (optimal omega)",643,3.386129e-04
+"SOR (optimal omega)",644,3.309171e-04
+"SOR (optimal omega)",645,3.233954e-04
+"SOR (optimal omega)",646,3.160440e-04
+"SOR (optimal omega)",647,3.088590e-04
+"SOR (optimal omega)",648,3.018366e-04
+"SOR (optimal omega)",649,2.949733e-04
+"SOR (optimal omega)",650,2.882653e-04
+"SOR (optimal omega)",651,2.817092e-04
+"SOR (optimal omega)",652,2.753016e-04
+"SOR (optimal omega)",653,2.690391e-04
+"SOR (optimal omega)",654,2.629184e-04
+"SOR (optimal omega)",655,2.569365e-04
+"SOR (optimal omega)",656,2.510900e-04
+"SOR (optimal omega)",657,2.453760e-04
+"SOR (optimal omega)",658,2.397914e-04
+"SOR (optimal omega)",659,2.343335e-04
+"SOR (optimal omega)",660,2.289992e-04
+"SOR (optimal omega)",661,2.237858e-04
+"SOR (optimal omega)",662,2.186906e-04
+"SOR (optimal omega)",663,2.137109e-04
+"SOR (optimal omega)",664,2.088441e-04
+"SOR (optimal omega)",665,2.040877e-04
+"SOR (optimal omega)",666,1.994391e-04
+"SOR (optimal omega)",667,1.948959e-04
+"SOR (optimal omega)",668,1.904558e-04
+"SOR (optimal omega)",669,1.861164e-04
+"SOR (optimal omega)",670,1.818754e-04
+"SOR (optimal omega)",671,1.777307e-04
+"SOR (optimal omega)",672,1.736800e-04
+"SOR (optimal omega)",673,1.697212e-04
+"SOR (optimal omega)",674,1.658523e-04
+"SOR (optimal omega)",675,1.620712e-04
+"SOR (optimal omega)",676,1.583759e-04
+"SOR (optimal omega)",677,1.547645e-04
+"SOR (optimal omega)",678,1.512351e-04
+"SOR (optimal omega)",679,1.477858e-04
+"SOR (optimal omega)",680,1.444149e-04
+"SOR (optimal omega)",681,1.411206e-04
+"SOR (optimal omega)",682,1.379011e-04
+"SOR (optimal omega)",683,1.347547e-04
+"SOR (optimal omega)",684,1.316799e-04
+"SOR (optimal omega)",685,1.286749e-04
+"SOR (optimal omega)",686,1.257382e-04
+"SOR (optimal omega)",687,1.228682e-04
+"SOR (optimal omega)",688,1.200635e-04
+"SOR (optimal omega)",689,1.173226e-04
+"SOR (optimal omega)",690,1.146440e-04
+"SOR (optimal omega)",691,1.120264e-04
+"SOR (optimal omega)",692,1.094682e-04
+"SOR (optimal omega)",693,1.069683e-04
+"SOR (optimal omega)",694,1.045253e-04
+"SOR (optimal omega)",695,1.021378e-04
+"SOR (optimal omega)",696,9.980467e-05
+"SOR (optimal omega)",697,9.752465e-05
+"SOR (optimal omega)",698,9.529653e-05
+"SOR (optimal omega)",699,9.311915e-05
+"SOR (optimal omega)",700,9.099133e-05
+"SOR (optimal omega)",701,8.891198e-05
+"SOR (optimal omega)",702,8.687998e-05
+"SOR (optimal omega)",703,8.489426e-05
+"SOR (optimal omega)",704,8.295378e-05
+"SOR (optimal omega)",705,8.105750e-05
+"SOR (optimal omega)",706,7.920443e-05
+"SOR (optimal omega)",707,7.739358e-05
+"SOR (optimal omega)",708,7.562399e-05
+"SOR (optimal omega)",709,7.389474e-05
+"SOR (optimal omega)",710,7.220489e-05
+"SOR (optimal omega)",711,7.055355e-05
+"SOR (optimal omega)",712,6.893985e-05
+"SOR (optimal omega)",713,6.736294e-05
+"SOR (optimal omega)",714,6.582197e-05
+"SOR (optimal omega)",715,6.431613e-05
+"SOR (optimal omega)",716,6.284462e-05
+"SOR (optimal omega)",717,6.140665e-05
+"SOR (optimal omega)",718,6.000147e-05
+"SOR (optimal omega)",719,5.862832e-05
+"SOR (optimal omega)",720,5.728649e-05
+"SOR (optimal omega)",721,5.597525e-05
+"SOR (optimal omega)",722,5.469391e-05
+"SOR (optimal omega)",723,5.344180e-05
+"SOR (optimal omega)",724,5.221825e-05
+"SOR (optimal omega)",725,5.102260e-05
+"SOR (optimal omega)",726,4.985424e-05
+"SOR (optimal omega)",727,4.871253e-05
+"SOR (optimal omega)",728,4.759688e-05
+"SOR (optimal omega)",729,4.650669e-05
+"SOR (optimal omega)",730,4.544138e-05
+"SOR (optimal omega)",731,4.440039e-05
+"SOR (optimal omega)",732,4.338316e-05
+"SOR (optimal omega)",733,4.238915e-05
+"SOR (optimal omega)",734,4.141783e-05
+"SOR (optimal omega)",735,4.046869e-05
+"SOR (optimal omega)",736,3.954123e-05
+"SOR (optimal omega)",737,3.863495e-05
+"SOR (optimal omega)",738,3.774936e-05
+"SOR (optimal omega)",739,3.688401e-05
+"SOR (optimal omega)",740,3.603842e-05
+"SOR (optimal omega)",741,3.521215e-05
+"SOR (optimal omega)",742,3.440476e-05
+"SOR (optimal omega)",743,3.361582e-05
+"SOR (optimal omega)",744,3.284490e-05
+"SOR (optimal omega)",745,3.209161e-05
+"SOR (optimal omega)",746,3.135554e-05
+"SOR (optimal omega)",747,3.063629e-05
+"SOR (optimal omega)",748,2.993348e-05
+"SOR (optimal omega)",749,2.924674e-05
+"SOR (optimal omega)",750,2.857571e-05
+"SOR (optimal omega)",751,2.792002e-05
+"SOR (optimal omega)",752,2.727933e-05
+"SOR (optimal omega)",753,2.665329e-05
+"SOR (optimal omega)",754,2.604158e-05
+"SOR (optimal omega)",755,2.544386e-05
+"SOR (optimal omega)",756,2.485981e-05
+"SOR (optimal omega)",757,2.428913e-05
+"SOR (optimal omega)",758,2.373151e-05
+"SOR (optimal omega)",759,2.318665e-05
+"SOR (optimal omega)",760,2.265427e-05
+"SOR (optimal omega)",761,2.213407e-05
+"SOR (optimal omega)",762,2.162578e-05
+"SOR (optimal omega)",763,2.112912e-05
+"SOR (optimal omega)",764,2.064384e-05
+"SOR (optimal omega)",765,2.016968e-05
+"SOR (optimal omega)",766,1.970637e-05
+"SOR (optimal omega)",767,1.925367e-05
+"SOR (optimal omega)",768,1.881135e-05
+"SOR (optimal omega)",769,1.837915e-05
+"SOR (optimal omega)",770,1.795686e-05
+"SOR (optimal omega)",771,1.754425e-05
+"SOR (optimal omega)",772,1.714108e-05
+"SOR (optimal omega)",773,1.674716e-05
+"SOR (optimal omega)",774,1.636226e-05
+"SOR (optimal omega)",775,1.598619e-05
+"SOR (optimal omega)",776,1.561873e-05
+"SOR (optimal omega)",777,1.525970e-05
+"SOR (optimal omega)",778,1.490890e-05
+"SOR (optimal omega)",779,1.456613e-05
+"SOR (optimal omega)",780,1.423123e-05
+"SOR (optimal omega)",781,1.390401e-05
+"SOR (optimal omega)",782,1.358428e-05
+"SOR (optimal omega)",783,1.327189e-05
+"SOR (optimal omega)",784,1.296666e-05
+"SOR (optimal omega)",785,1.266843e-05
+"SOR (optimal omega)",786,1.237704e-05
+"SOR (optimal omega)",787,1.209234e-05
+"SOR (optimal omega)",788,1.181416e-05
+"SOR (optimal omega)",789,1.154236e-05
+"SOR (optimal omega)",790,1.127680e-05
+"SOR (optimal omega)",791,1.101732e-05
+"SOR (optimal omega)",792,1.076380e-05
+"SOR (optimal omega)",793,1.051610e-05
+"SOR (optimal omega)",794,1.027408e-05
+"SOR (optimal omega)",795,1.003761e-05
+"SOR (optimal omega)",796,9.806565e-06
+"SOR (optimal omega)",797,9.580823e-06
+"SOR (optimal omega)",798,9.360261e-06
+"SOR (optimal omega)",799,9.144762e-06
+"SOR (optimal omega)",800,8.934208e-06
+"SOR (optimal omega)",801,8.728488e-06
+"SOR (optimal omega)",802,8.527489e-06
+"SOR (optimal omega)",803,8.331106e-06
+"SOR (optimal omega)",804,8.139231e-06
+"SOR (optimal omega)",805,7.951762e-06
+"SOR (optimal omega)",806,7.768599e-06
+"SOR (optimal omega)",807,7.589642e-06
+"SOR (optimal omega)",808,7.414797e-06
+"SOR (optimal omega)",809,7.243968e-06
+"SOR (optimal omega)",810,7.077063e-06
+"SOR (optimal omega)",811,6.913994e-06
+"SOR (optimal omega)",812,6.754673e-06
+"SOR (optimal omega)",813,6.599012e-06
+"SOR (optimal omega)",814,6.446930e-06
+"SOR (optimal omega)",815,6.298343e-06
+"SOR (optimal omega)",816,6.153171e-06
+"SOR (optimal omega)",817,6.011337e-06
+"SOR (optimal omega)",818,5.872763e-06
+"SOR (optimal omega)",819,5.737376e-06
+"SOR (optimal omega)",820,5.605101e-06
+"SOR (optimal omega)",821,5.475868e-06
+"SOR (optimal omega)",822,5.349606e-06
+"SOR (optimal omega)",823,5.226249e-06
+"SOR (optimal omega)",824,5.105729e-06
+"SOR (optimal omega)",825,4.987980e-06
+"SOR (optimal omega)",826,4.872941e-06
+"SOR (optimal omega)",827,4.760548e-06
+"SOR (optimal omega)",828,4.650741e-06
+"SOR (optimal omega)",829,4.543460e-06
+"SOR (optimal omega)",830,4.438648e-06
+"SOR (optimal omega)",831,4.336248e-06
+"SOR (optimal omega)",832,4.236205e-06
+"SOR (optimal omega)",833,4.138464e-06
+"SOR (optimal omega)",834,4.042972e-06
+"SOR (optimal omega)",835,3.949679e-06
+"SOR (optimal omega)",836,3.858533e-06
+"SOR (optimal omega)",837,3.769486e-06
+"SOR (optimal omega)",838,3.682488e-06
+"SOR (optimal omega)",839,3.597494e-06
+"SOR (optimal omega)",840,3.514456e-06
+"SOR (optimal omega)",841,3.433331e-06
+"SOR (optimal omega)",842,3.354073e-06
+"SOR (optimal omega)",843,3.276641e-06
+"SOR (optimal omega)",844,3.200992e-06
+"SOR (optimal omega)",845,3.127086e-06
+"SOR (optimal omega)",846,3.054881e-06
+"SOR (optimal omega)",847,2.984340e-06
+"SOR (optimal omega)",848,2.915424e-06
+"SOR (optimal omega)",849,2.848095e-06
+"SOR (optimal omega)",850,2.782317e-06
+"SOR (optimal omega)",851,2.718055e-06
+"SOR (optimal omega)",852,2.655273e-06
+"SOR (optimal omega)",853,2.593937e-06
+"SOR (optimal omega)",854,2.534015e-06
+"SOR (optimal omega)",855,2.475474e-06
+"SOR (optimal omega)",856,2.418282e-06
+"SOR (optimal omega)",857,2.362407e-06
+"SOR (optimal omega)",858,2.307821e-06
+"SOR (optimal omega)",859,2.254492e-06
+"SOR (optimal omega)",860,2.202393e-06
+"SOR (optimal omega)",861,2.151494e-06
+"SOR (optimal omega)",862,2.101769e-06
+"SOR (optimal omega)",863,2.053190e-06
+"SOR (optimal omega)",864,2.005731e-06
+"SOR (optimal omega)",865,1.959366e-06
+"SOR (optimal omega)",866,1.914071e-06
+"SOR (optimal omega)",867,1.869819e-06
+"SOR (optimal omega)",868,1.826588e-06
+"SOR (optimal omega)",869,1.784354e-06
+"SOR (optimal omega)",870,1.743094e-06
+"SOR (optimal omega)",871,1.702786e-06
+"SOR (optimal omega)",872,1.663407e-06
+"SOR (optimal omega)",873,1.624937e-06
+"SOR (optimal omega)",874,1.587354e-06
+"SOR (optimal omega)",875,1.550639e-06
+"SOR (optimal omega)",876,1.514770e-06
+"SOR (optimal omega)",877,1.479730e-06
+"SOR (optimal omega)",878,1.445498e-06
+"SOR (optimal omega)",879,1.412056e-06
+"SOR (optimal omega)",880,1.379386e-06
+"SOR (optimal omega)",881,1.347470e-06
+"SOR (optimal omega)",882,1.316290e-06
+"SOR (optimal omega)",883,1.285831e-06
+"SOR (optimal omega)",884,1.256075e-06
+"SOR (optimal omega)",885,1.227006e-06
+"SOR (optimal omega)",886,1.198609e-06
+"SOR (optimal omega)",887,1.170867e-06
+"SOR (optimal omega)",888,1.143766e-06
+"SOR (optimal omega)",889,1.117291e-06
+"SOR (optimal omega)",890,1.091427e-06
+"SOR (optimal omega)",891,1.066161e-06
+"SOR (optimal omega)",892,1.041479e-06
+"SOR (optimal omega)",893,1.017367e-06
+"SOR (optimal omega)",894,9.938117e-07
+"SOR (optimal omega)",895,9.708010e-07
+"SOR (optimal omega)",896,9.483220e-07
+"SOR (optimal omega)",897,9.263624e-07
+"SOR (optimal omega)",898,9.049103e-07
+"SOR (optimal omega)",899,8.839539e-07
+"SOR (optimal omega)",900,8.634818e-07
+"SOR (optimal omega)",901,8.434827e-07
+"SOR (optimal omega)",902,8.239460e-07
+"SOR (optimal omega)",903,8.048608e-07
+"SOR (optimal omega)",904,7.862166e-07
+"SOR (optimal omega)",905,7.680034e-07
+"SOR (optimal omega)",906,7.502112e-07
+"SOR (optimal omega)",907,7.328303e-07
+"SOR (optimal omega)",908,7.158513e-07
+"SOR (optimal omega)",909,6.992648e-07
+"SOR (optimal omega)",910,6.830618e-07
+"SOR (optimal omega)",911,6.672335e-07
+"SOR (optimal omega)",912,6.517711e-07
+"SOR (optimal omega)",913,6.366663e-07
+"SOR (optimal omega)",914,6.219108e-07
+"SOR (optimal omega)",915,6.074966e-07
+"SOR (optimal omega)",916,5.934157e-07
+"SOR (optimal omega)",917,5.796605e-07
+"SOR (optimal omega)",918,5.662235e-07
+"SOR (optimal omega)",919,5.530972e-07
+"SOR (optimal omega)",920,5.402746e-07
+"SOR (optimal omega)",921,5.277486e-07
+"SOR (optimal omega)",922,5.155124e-07
+"SOR (optimal omega)",923,5.035593e-07
+"SOR (optimal omega)",924,4.918827e-07
+"SOR (optimal omega)",925,4.804763e-07
+"SOR (optimal omega)",926,4.693339e-07
+"SOR (optimal omega)",927,4.584492e-07
+"SOR (optimal omega)",928,4.478165e-07
+"SOR (optimal omega)",929,4.374297e-07
+"SOR (optimal omega)",930,4.272835e-07
+"SOR (optimal omega)",931,4.173720e-07
+"SOR (optimal omega)",932,4.076899e-07
+"SOR (optimal omega)",933,3.982320e-07
+"SOR (optimal omega)",934,3.889930e-07
+"SOR (optimal omega)",935,3.799679e-07
+"SOR (optimal omega)",936,3.711517e-07
+"SOR (optimal omega)",937,3.625397e-07
+"SOR (optimal omega)",938,3.541270e-07
+"SOR (optimal omega)",939,3.459092e-07
+"SOR (optimal omega)",940,3.378816e-07
+"SOR (optimal omega)",941,3.300400e-07
+"SOR (optimal omega)",942,3.223800e-07
+"SOR (optimal omega)",943,3.148974e-07
+"SOR (optimal omega)",944,3.075881e-07
+"SOR (optimal omega)",945,3.004481e-07
+"SOR (optimal omega)",946,2.934736e-07
+"SOR (optimal omega)",947,2.866606e-07
+"SOR (optimal omega)",948,2.800056e-07
+"SOR (optimal omega)",949,2.735046e-07
+"SOR (optimal omega)",950,2.671544e-07
+"SOR (optimal omega)",951,2.609512e-07
+"SOR (optimal omega)",952,2.548919e-07
+"SOR (optimal omega)",953,2.489730e-07
+"SOR (optimal omega)",954,2.431913e-07
+"SOR (optimal omega)",955,2.375436e-07
+"SOR (optimal omega)",956,2.320268e-07
+"SOR (optimal omega)",957,2.266379e-07
+"SOR (optimal omega)",958,2.213739e-07
+"SOR (optimal omega)",959,2.162320e-07
+"SOR (optimal omega)",960,2.112094e-07
+"SOR (optimal omega)",961,2.063032e-07
+"SOR (optimal omega)",962,2.015107e-07
+"SOR (optimal omega)",963,1.968294e-07
+"SOR (optimal omega)",964,1.922566e-07
+"SOR (optimal omega)",965,1.877899e-07
+"SOR (optimal omega)",966,1.834269e-07
+"SOR (optimal omega)",967,1.791649e-07
+"SOR (optimal omega)",968,1.750019e-07
+"SOR (optimal omega)",969,1.709354e-07
+"SOR (optimal omega)",970,1.669632e-07
+"SOR (optimal omega)",971,1.630832e-07
+"SOR (optimal omega)",972,1.592932e-07
+"SOR (optimal omega)",973,1.555911e-07
+"SOR (optimal omega)",974,1.519748e-07
+"SOR (optimal omega)",975,1.484425e-07
+"SOR (optimal omega)",976,1.449921e-07
+"SOR (optimal omega)",977,1.416218e-07
+"SOR (optimal omega)",978,1.383296e-07
+"SOR (optimal omega)",979,1.351139e-07
+"SOR (optimal omega)",980,1.319728e-07
+"SOR (optimal omega)",981,1.289045e-07
+"SOR (optimal omega)",982,1.259074e-07
+"SOR (optimal omega)",983,1.229799e-07
+"SOR (optimal omega)",984,1.201203e-07
+"SOR (optimal omega)",985,1.173270e-07
+"SOR (optimal omega)",986,1.145986e-07
+"SOR (optimal omega)",987,1.119335e-07
+"SOR (optimal omega)",988,1.093302e-07
+"SOR (optimal omega)",989,1.067874e-07
+"SOR (optimal omega)",990,1.043037e-07
+"SOR (optimal omega)",991,1.018775e-07
+"SOR (optimal omega)",992,9.950776e-08
+"SOR (optimal omega)",993,9.719298e-08
+"SOR (optimal omega)",994,9.493197e-08
+"SOR (optimal omega)",995,9.272346e-08
+"SOR (optimal omega)",996,9.056625e-08
+"SOR (optimal omega)",997,8.845915e-08
+"SOR (optimal omega)",998,8.640097e-08
+"SOR (optimal omega)",999,8.439060e-08
+"SOR (optimal omega)",1000,8.242690e-08
+"SOR (optimal omega)",1001,8.050883e-08
+"SOR (optimal omega)",1002,7.863529e-08
+"SOR (optimal omega)",1003,7.680530e-08
+"SOR (optimal omega)",1004,7.501781e-08
+"SOR (optimal omega)",1005,7.327181e-08
+"SOR (optimal omega)",1006,7.156640e-08
+"SOR (optimal omega)",1007,6.990062e-08
+"SOR (optimal omega)",1008,6.827351e-08
+"SOR (optimal omega)",1009,6.668422e-08
+"SOR (optimal omega)",1010,6.513188e-08
+"SOR (optimal omega)",1011,6.361561e-08
+"SOR (optimal omega)",1012,6.213458e-08
+"SOR (optimal omega)",1013,6.068797e-08
+"SOR (optimal omega)",1014,5.927499e-08
+"SOR (optimal omega)",1015,5.789484e-08
+"SOR (optimal omega)",1016,5.654680e-08
+"SOR (optimal omega)",1017,5.523007e-08
+"SOR (optimal omega)",1018,5.394395e-08
+"SOR (optimal omega)",1019,5.268770e-08
+"SOR (optimal omega)",1020,5.146070e-08
+"SOR (optimal omega)",1021,5.026224e-08
+"SOR (optimal omega)",1022,4.909165e-08
+"SOR (optimal omega)",1023,4.794831e-08
+"SOR (optimal omega)",1024,4.683150e-08
+"SOR (optimal omega)",1025,4.574064e-08
+"SOR (optimal omega)",1026,4.467518e-08
+"SOR (optimal omega)",1027,4.363447e-08
+"SOR (optimal omega)",1028,4.261797e-08
+"SOR (optimal omega)",1029,4.162513e-08
+"SOR (optimal omega)",1030,4.065538e-08
+"SOR (optimal omega)",1031,3.970819e-08
+"SOR (optimal omega)",1032,3.878304e-08
+"SOR (optimal omega)",1033,3.787941e-08
+"SOR (optimal omega)",1034,3.699677e-08
+"SOR (optimal omega)",1035,3.613475e-08
+"SOR (optimal omega)",1036,3.529275e-08
+"SOR (optimal omega)",1037,3.447032e-08
+"SOR (optimal omega)",1038,3.366703e-08
+"SOR (optimal omega)",1039,3.288246e-08
+"SOR (optimal omega)",1040,3.211614e-08
+"SOR (optimal omega)",1041,3.136763e-08
+"SOR (optimal omega)",1042,3.063656e-08
+"SOR (optimal omega)",1043,2.992246e-08
+"SOR (optimal omega)",1044,2.922499e-08
+"SOR (optimal omega)",1045,2.854373e-08
+"SOR (optimal omega)",1046,2.787834e-08
+"SOR (optimal omega)",1047,2.722845e-08
+"SOR (optimal omega)",1048,2.659366e-08
+"SOR (optimal omega)",1049,2.597364e-08
+"SOR (optimal omega)",1050,2.536810e-08
+"SOR (optimal omega)",1051,2.477659e-08
+"SOR (optimal omega)",1052,2.419887e-08
+"SOR (optimal omega)",1053,2.363460e-08
+"SOR (optimal omega)",1054,2.308346e-08
+"SOR (optimal omega)",1055,2.254518e-08
+"SOR (optimal omega)",1056,2.201943e-08
+"SOR (optimal omega)",1057,2.150592e-08
+"SOR (optimal omega)",1058,2.100428e-08
+"SOR (optimal omega)",1059,2.051437e-08
+"SOR (optimal omega)",1060,2.003587e-08
+"SOR (optimal omega)",1061,1.956850e-08
+"SOR (optimal omega)",1062,1.911204e-08
+"SOR (optimal omega)",1063,1.866619e-08
+"SOR (optimal omega)",1064,1.823074e-08
+"SOR (optimal omega)",1065,1.780541e-08
+"SOR (optimal omega)",1066,1.739000e-08
+"SOR (optimal omega)",1067,1.698424e-08
+"SOR (optimal omega)",1068,1.658794e-08
+"SOR (optimal omega)",1069,1.620088e-08
+"SOR (optimal omega)",1070,1.582285e-08
+"SOR (optimal omega)",1071,1.545367e-08
+"SOR (optimal omega)",1072,1.509306e-08
+"SOR (optimal omega)",1073,1.474080e-08
+"SOR (optimal omega)",1074,1.439679e-08
+"SOR (optimal omega)",1075,1.406078e-08
+"SOR (optimal omega)",1076,1.373266e-08
+"SOR (optimal omega)",1077,1.341213e-08
+"SOR (optimal omega)",1078,1.309911e-08
+"SOR (optimal omega)",1079,1.279341e-08
+"SOR (optimal omega)",1080,1.249479e-08
+"SOR (optimal omega)",1081,1.220314e-08
+"SOR (optimal omega)",1082,1.191826e-08
+"SOR (optimal omega)",1083,1.164006e-08
+"SOR (optimal omega)",1084,1.136834e-08
+"SOR (optimal omega)",1085,1.110296e-08
+"SOR (optimal omega)",1086,1.084377e-08
+"SOR (optimal omega)",1087,1.059063e-08
+"SOR (optimal omega)",1088,1.034335e-08
+"SOR (optimal omega)",1089,1.010187e-08
+"SOR (optimal omega)",1090,9.865976e-09
+"CG",1,1.442842e+01
+"CG",2,1.362330e+01
+"CG",3,1.290342e+01
+"CG",4,1.225581e+01
+"CG",5,1.166997e+01
+"CG",6,1.113736e+01
+"CG",7,1.065121e+01
+"CG",8,1.021161e+01
+"CG",9,9.942432e+00
+"CG",10,1.151249e+01
+"CG",11,1.102813e+01
+"CG",12,9.624892e+00
+"CG",13,1.147310e+01
+"CG",14,9.278956e+00
+"CG",15,1.013493e+01
+"CG",16,9.501713e+00
+"CG",17,8.997974e+00
+"CG",18,9.661989e+00
+"CG",19,8.357046e+00
+"CG",20,9.393585e+00
+"CG",21,8.033784e+00
+"CG",22,8.813910e+00
+"CG",23,7.883530e+00
+"CG",24,8.176381e+00
+"CG",25,7.799908e+00
+"CG",26,7.620296e+00
+"CG",27,7.702967e+00
+"CG",28,7.178085e+00
+"CG",29,7.546935e+00
+"CG",30,6.837009e+00
+"CG",31,7.322509e+00
+"CG",32,6.573690e+00
+"CG",33,7.045731e+00
+"CG",34,6.365878e+00
+"CG",35,6.742001e+00
+"CG",36,6.194986e+00
+"CG",37,6.434438e+00
+"CG",38,6.046132e+00
+"CG",39,6.139049e+00
+"CG",40,5.907864e+00
+"CG",41,5.864604e+00
+"CG",42,5.771941e+00
+"CG",43,5.614450e+00
+"CG",44,5.633076e+00
+"CG",45,5.388540e+00
+"CG",46,5.488556e+00
+"CG",47,5.184999e+00
+"CG",48,5.337698e+00
+"CG",49,5.001149e+00
+"CG",50,5.181253e+00
+"CG",51,4.834101e+00
+"CG",52,5.020818e+00
+"CG",53,4.681068e+00
+"CG",54,4.858356e+00
+"CG",55,4.539519e+00
+"CG",56,4.695838e+00
+"CG",57,4.407232e+00
+"CG",58,4.535020e+00
+"CG",59,4.282306e+00
+"CG",60,4.377334e+00
+"CG",61,4.163153e+00
+"CG",62,4.223850e+00
+"CG",63,4.048470e+00
+"CG",64,4.075299e+00
+"CG",65,3.937215e+00
+"CG",66,3.932113e+00
+"CG",67,3.828579e+00
+"CG",68,3.794487e+00
+"CG",69,3.721955e+00
+"CG",70,3.662428e+00
+"CG",71,3.616907e+00
+"CG",72,3.535811e+00
+"CG",73,3.513141e+00
+"CG",74,3.414420e+00
+"CG",75,3.410482e+00
+"CG",76,3.297976e+00
+"CG",77,3.308846e+00
+"CG",78,3.186173e+00
+"CG",79,3.208216e+00
+"CG",80,3.078689e+00
+"CG",81,3.108628e+00
+"CG",82,2.975200e+00
+"CG",83,3.010149e+00
+"CG",84,2.875398e+00
+"CG",85,2.912866e+00
+"CG",86,2.778984e+00
+"CG",87,2.816877e+00
+"CG",88,2.685685e+00
+"CG",89,2.722279e+00
+"CG",90,2.595246e+00
+"CG",91,2.629164e+00
+"CG",92,2.507436e+00
+"CG",93,2.537617e+00
+"CG",94,2.422046e+00
+"CG",95,2.447708e+00
+"CG",96,2.338888e+00
+"CG",97,2.359497e+00
+"CG",98,2.257798e+00
+"CG",99,2.273029e+00
+"CG",100,2.178626e+00
+"CG",101,2.188334e+00
+"CG",102,2.101243e+00
+"CG",103,2.105433e+00
+"CG",104,2.025536e+00
+"CG",105,2.024332e+00
+"CG",106,1.951406e+00
+"CG",107,1.945029e+00
+"CG",108,1.878766e+00
+"CG",109,1.867510e+00
+"CG",110,1.807541e+00
+"CG",111,1.791757e+00
+"CG",112,1.737666e+00
+"CG",113,1.717740e+00
+"CG",114,1.669086e+00
+"CG",115,1.645429e+00
+"CG",116,1.601752e+00
+"CG",117,1.574786e+00
+"CG",118,1.535621e+00
+"CG",119,1.505770e+00
+"CG",120,1.470657e+00
+"CG",121,1.438338e+00
+"CG",122,1.406826e+00
+"CG",123,1.372444e+00
+"CG",124,1.344100e+00
+"CG",125,1.308041e+00
+"CG",126,1.282452e+00
+"CG",127,1.245080e+00
+"CG",128,1.221858e+00
+"CG",129,1.183513e+00
+"CG",130,1.162294e+00
+"CG",131,1.123290e+00
+"CG",132,1.103740e+00
+"CG",133,1.064361e+00
+"CG",134,1.046172e+00
+"CG",135,1.006678e+00
+"CG",136,9.895707e-01
+"CG",137,9.501904e-01
+"CG",138,9.339130e-01
+"CG",139,8.948495e-01
+"CG",140,8.791768e-01
+"CG",141,8.406061e-01
+"CG",142,8.253385e-01
+"CG",143,7.874113e-01
+"CG",144,7.723735e-01
+"CG",145,7.352163e-01
+"CG",146,7.202560e-01
+"CG",147,6.839721e-01
+"CG",148,6.689582e-01
+"CG",149,6.336296e-01
+"CG",150,6.184506e-01
+"CG",151,5.841395e-01
+"CG",152,5.687016e-01
+"CG",153,5.354519e-01
+"CG",154,5.196776e-01
+"CG",155,4.875158e-01
+"CG",156,4.713421e-01
+"CG",157,4.402795e-01
+"CG",158,4.236562e-01
+"CG",159,3.936896e-01
+"CG",160,3.765776e-01
+"CG",161,3.476910e-01
+"CG",162,3.300607e-01
+"CG",163,3.022259e-01
+"CG",164,2.840556e-01
+"CG",165,2.572332e-01
+"CG",166,2.385073e-01
+"CG",167,2.126481e-01
+"CG",168,1.933595e-01
+"CG",169,1.684187e-01
+"CG",170,1.486137e-01
+"CG",171,1.246750e-01
+"CG",172,1.047526e-01
+"CG",173,8.259329e-02
+"CG",174,6.420458e-02
+"CG",175,4.618993e-02
+"CG",176,3.254752e-02
+"CG",177,2.146968e-02
+"CG",178,1.467228e-02
+"CG",179,1.081172e-02
+"CG",180,1.047779e-02
+"CG",181,1.351060e-02
+"CG",182,2.276052e-02
+"CG",183,4.056189e-02
+"CG",184,6.507389e-02
+"CG",185,6.420535e-02
+"CG",186,3.898856e-02
+"CG",187,1.889255e-02
+"CG",188,1.109762e-02
+"CG",189,1.066580e-02
+"CG",190,1.686162e-02
+"CG",191,2.382282e-02
+"CG",192,1.802179e-02
+"CG",193,1.087134e-02
+"CG",194,1.056928e-02
+"CG",195,1.572113e-02
+"CG",196,1.677976e-02
+"CG",197,1.076155e-02
+"CG",198,9.322077e-03
+"CG",199,1.297311e-02
+"CG",200,1.354422e-02
+"CG",201,9.075604e-03
+"CG",202,8.807263e-03
+"CG",203,1.198263e-02
+"CG",204,1.011878e-02
+"CG",205,7.548885e-03
+"CG",206,9.113118e-03
+"CG",207,1.014200e-02
+"CG",208,7.227061e-03
+"CG",209,7.371969e-03
+"CG",210,9.116857e-03
+"CG",211,7.035437e-03
+"CG",212,6.297182e-03
+"CG",213,7.990475e-03
+"CG",214,6.594907e-03
+"CG",215,5.647008e-03
+"CG",216,6.946763e-03
+"CG",217,6.057727e-03
+"CG",218,5.064573e-03
+"CG",219,6.226830e-03
+"CG",220,5.367152e-03
+"CG",221,4.640144e-03
+"CG",222,5.550356e-03
+"CG",223,4.737506e-03
+"CG",224,4.216088e-03
+"CG",225,5.038183e-03
+"CG",226,4.069796e-03
+"CG",227,3.946942e-03
+"CG",228,4.438357e-03
+"CG",229,3.551699e-03
+"CG",230,3.675100e-03
+"CG",231,3.870142e-03
+"CG",232,3.088979e-03
+"CG",233,3.503800e-03
+"CG",234,3.220496e-03
+"CG",235,2.818878e-03
+"CG",236,3.200697e-03
+"CG",237,2.700262e-03
+"CG",238,2.616102e-03
+"CG",239,2.822008e-03
+"CG",240,2.276176e-03
+"CG",241,2.513780e-03
+"CG",242,2.308576e-03
+"CG",243,2.062650e-03
+"CG",244,2.278322e-03
+"CG",245,1.908205e-03
+"CG",246,1.927603e-03
+"CG",247,1.940519e-03
+"CG",248,1.630562e-03
+"CG",249,1.822662e-03
+"CG",250,1.549764e-03
+"CG",251,1.527155e-03
+"CG",252,1.552783e-03
+"CG",253,1.318033e-03
+"CG",254,1.425291e-03
+"CG",255,1.259299e-03
+"CG",256,1.198530e-03
+"CG",257,1.244419e-03
+"CG",258,1.045566e-03
+"CG",259,1.143252e-03
+"CG",260,9.849513e-04
+"CG",261,9.548995e-04
+"CG",262,9.672041e-04
+"CG",263,8.322669e-04
+"CG",264,8.851844e-04
+"CG",265,7.761985e-04
+"CG",266,7.582444e-04
+"CG",267,7.480516e-04
+"CG",268,6.512942e-04
+"CG",269,6.977481e-04
+"CG",270,5.898069e-04
+"CG",271,6.088308e-04
+"CG",272,5.596864e-04
+"CG",273,5.176232e-04
+"CG",274,5.293418e-04
+"CG",275,4.543413e-04
+"CG",276,4.748142e-04
+"CG",277,4.191121e-04
+"CG",278,4.060098e-04
+"CG",279,3.957271e-04
+"CG",280,3.474174e-04
+"CG",281,3.646846e-04
+"CG",282,3.081875e-04
+"CG",283,3.199148e-04
+"CG",284,2.836745e-04
+"CG",285,2.722550e-04
+"CG",286,2.638594e-04
+"CG",287,2.334939e-04
+"CG",288,2.390782e-04
+"CG",289,2.066366e-04
+"CG",290,2.076484e-04
+"CG",291,1.882529e-04
+"CG",292,1.760744e-04
+"CG",293,1.724775e-04
+"CG",294,1.502845e-04
+"CG",295,1.544485e-04
+"CG",296,1.314369e-04
+"CG",297,1.334932e-04
+"CG",298,1.177080e-04
+"CG",299,1.126649e-04
+"CG",300,1.062720e-04
+"CG",301,9.501778e-05
+"CG",302,9.457961e-05
+"CG",303,8.148500e-05
+"CG",304,8.171683e-05
+"CG",305,7.134844e-05
+"CG",306,6.873464e-05
+"CG",307,6.321984e-05
+"CG",308,5.723338e-05
+"CG",309,5.572445e-05
+"CG",310,4.798533e-05
+"CG",311,4.809062e-05
+"CG",312,4.084606e-05
+"CG",313,4.042763e-05
+"CG",314,3.524806e-05
+"CG",315,3.335557e-05
+"CG",316,3.055794e-05
+"CG",317,2.738229e-05
+"CG",318,2.627143e-05
+"CG",319,2.263334e-05
+"CG",320,2.215762e-05
+"CG",321,1.894611e-05
+"CG",322,1.828880e-05
+"CG",323,1.604467e-05
+"CG",324,1.488095e-05
+"CG",325,1.365507e-05
+"CG",326,1.208490e-05
+"CG",327,1.157622e-05
+"CG",328,9.908749e-06
+"CG",329,9.717659e-06
+"CG",330,8.264935e-06
+"CG",331,8.086974e-06
+"CG",332,7.038534e-06
+"CG",333,6.731620e-06
+"CG",334,6.124473e-06
+"CG",335,5.681535e-06
+"CG",336,5.439154e-06
+"CG",337,4.928719e-06
+"CG",338,4.921205e-06
+"CG",339,4.435253e-06
+"CG",340,4.526567e-06
+"CG",341,4.144628e-06
+"CG",342,4.218004e-06
+"CG",343,3.983051e-06
+"CG",344,3.951568e-06
+"CG",345,3.854346e-06
+"CG",346,3.668272e-06
+"CG",347,3.646037e-06
+"CG",348,3.303758e-06
+"CG",349,3.267092e-06
+"CG",350,2.822510e-06
+"CG",351,2.707498e-06
+"CG",352,2.254501e-06
+"CG",353,2.061548e-06
+"CG",354,1.691224e-06
+"CG",355,1.475338e-06
+"CG",356,1.238886e-06
+"CG",357,1.067679e-06
+"CG",358,9.766002e-07
+"CG",359,8.948422e-07
+"CG",360,9.418370e-07
+"CG",361,9.491994e-07
+"CG",362,1.077390e-06
+"CG",363,1.062187e-06
+"CG",364,1.062962e-06
+"CG",365,8.777429e-07
+"CG",366,7.285461e-07
+"CG",367,5.714929e-07
+"CG",368,4.977201e-07
+"CG",369,4.930142e-07
+"CG",370,5.173261e-07
+"CG",371,5.644730e-07
+"CG",372,5.044862e-07
+"CG",373,4.350859e-07
+"CG",374,3.359337e-07
+"CG",375,3.222888e-07
+"CG",376,3.184835e-07
+"CG",377,3.470664e-07
+"CG",378,3.048817e-07
+"CG",379,2.568904e-07
+"CG",380,2.159483e-07
+"CG",381,2.151069e-07
+"CG",382,2.263802e-07
+"CG",383,2.068284e-07
+"CG",384,1.746196e-07
+"CG",385,1.479954e-07
+"CG",386,1.558177e-07
+"CG",387,1.511342e-07
+"CG",388,1.388047e-07
+"CG",389,1.106297e-07
+"CG",390,1.096888e-07
+"CG",391,1.085400e-07
+"CG",392,1.032341e-07
+"CG",393,8.347650e-08
+"CG",394,7.790327e-08
+"CG",395,7.881993e-08
+"CG",396,7.318991e-08
+"CG",397,6.152998e-08
+"CG",398,5.520992e-08
+"CG",399,5.737508e-08
+"CG",400,5.078221e-08
+"CG",401,4.417056e-08
+"CG",402,3.967743e-08
+"CG",403,4.150210e-08
+"CG",404,3.515738e-08
+"CG",405,3.122109e-08
+"CG",406,2.920080e-08
+"CG",407,2.919777e-08
+"CG",408,2.416693e-08
+"CG",409,2.190913e-08
+"CG",410,2.159051e-08
+"CG",411,1.972722e-08
+"CG",412,1.682524e-08
+"CG",413,1.588852e-08
+"CG",414,1.565205e-08
+"CG",415,1.297324e-08
+"CG",416,1.205062e-08
+"CG",417,1.149847e-08
+"CG",418,1.062251e-08
+"CG",419,8.778683e-09
+"PCG + IC(0)",1,1.217953e+01
+"PCG + IC(0)",2,1.147620e+01
+"PCG + IC(0)",3,1.041478e+01
+"PCG + IC(0)",4,9.494194e+00
+"PCG + IC(0)",5,8.701453e+00
+"PCG + IC(0)",6,8.013048e+00
+"PCG + IC(0)",7,7.413156e+00
+"PCG + IC(0)",8,6.888252e+00
+"PCG + IC(0)",9,6.425690e+00
+"PCG + IC(0)",10,6.014328e+00
+"PCG + IC(0)",11,5.644965e+00
+"PCG + IC(0)",12,5.310341e+00
+"PCG + IC(0)",13,5.004841e+00
+"PCG + IC(0)",14,4.724073e+00
+"PCG + IC(0)",15,4.464494e+00
+"PCG + IC(0)",16,4.223129e+00
+"PCG + IC(0)",17,3.997441e+00
+"PCG + IC(0)",18,3.785378e+00
+"PCG + IC(0)",19,3.585447e+00
+"PCG + IC(0)",20,3.396528e+00
+"PCG + IC(0)",21,3.217514e+00
+"PCG + IC(0)",22,3.047211e+00
+"PCG + IC(0)",23,2.884626e+00
+"PCG + IC(0)",24,2.729195e+00
+"PCG + IC(0)",25,2.580585e+00
+"PCG + IC(0)",26,2.438389e+00
+"PCG + IC(0)",27,2.302069e+00
+"PCG + IC(0)",28,2.171123e+00
+"PCG + IC(0)",29,2.045270e+00
+"PCG + IC(0)",30,1.924579e+00
+"PCG + IC(0)",31,1.809286e+00
+"PCG + IC(0)",32,1.699151e+00
+"PCG + IC(0)",33,1.593169e+00
+"PCG + IC(0)",34,1.490387e+00
+"PCG + IC(0)",35,1.390591e+00
+"PCG + IC(0)",36,1.293849e+00
+"PCG + IC(0)",37,1.200005e+00
+"PCG + IC(0)",38,1.108862e+00
+"PCG + IC(0)",39,1.020512e+00
+"PCG + IC(0)",40,9.352450e-01
+"PCG + IC(0)",41,8.532017e-01
+"PCG + IC(0)",42,7.742091e-01
+"PCG + IC(0)",43,6.979112e-01
+"PCG + IC(0)",44,6.239595e-01
+"PCG + IC(0)",45,5.520535e-01
+"PCG + IC(0)",46,4.818862e-01
+"PCG + IC(0)",47,4.131720e-01
+"PCG + IC(0)",48,3.458359e-01
+"PCG + IC(0)",49,2.802605e-01
+"PCG + IC(0)",50,2.174745e-01
+"PCG + IC(0)",51,1.593427e-01
+"PCG + IC(0)",52,1.086054e-01
+"PCG + IC(0)",53,6.813729e-02
+"PCG + IC(0)",54,3.945241e-02
+"PCG + IC(0)",55,2.189745e-02
+"PCG + IC(0)",56,1.347795e-02
+"PCG + IC(0)",57,1.258926e-02
+"PCG + IC(0)",58,1.967700e-02
+"PCG + IC(0)",59,3.287543e-02
+"PCG + IC(0)",60,3.020057e-02
+"PCG + IC(0)",61,1.506621e-02
+"PCG + IC(0)",62,8.149511e-03
+"PCG + IC(0)",63,8.606105e-03
+"PCG + IC(0)",64,1.050192e-02
+"PCG + IC(0)",65,7.330349e-03
+"PCG + IC(0)",66,6.096671e-03
+"PCG + IC(0)",67,7.301701e-03
+"PCG + IC(0)",68,5.424123e-03
+"PCG + IC(0)",69,4.397479e-03
+"PCG + IC(0)",70,4.919608e-03
+"PCG + IC(0)",71,3.569946e-03
+"PCG + IC(0)",72,3.264299e-03
+"PCG + IC(0)",73,3.259087e-03
+"PCG + IC(0)",74,2.359600e-03
+"PCG + IC(0)",75,2.452083e-03
+"PCG + IC(0)",76,1.976793e-03
+"PCG + IC(0)",77,1.678657e-03
+"PCG + IC(0)",78,1.611477e-03
+"PCG + IC(0)",79,1.200087e-03
+"PCG + IC(0)",80,1.202393e-03
+"PCG + IC(0)",81,9.057628e-04
+"PCG + IC(0)",82,8.472566e-04
+"PCG + IC(0)",83,6.917258e-04
+"PCG + IC(0)",84,5.900624e-04
+"PCG + IC(0)",85,5.192354e-04
+"PCG + IC(0)",86,4.142493e-04
+"PCG + IC(0)",87,3.778720e-04
+"PCG + IC(0)",88,2.918843e-04
+"PCG + IC(0)",89,2.695777e-04
+"PCG + IC(0)",90,2.072504e-04
+"PCG + IC(0)",91,1.926621e-04
+"PCG + IC(0)",92,1.501769e-04
+"PCG + IC(0)",93,1.418406e-04
+"PCG + IC(0)",94,1.149799e-04
+"PCG + IC(0)",95,1.130342e-04
+"PCG + IC(0)",96,9.785273e-05
+"PCG + IC(0)",97,1.022639e-04
+"PCG + IC(0)",98,9.680130e-05
+"PCG + IC(0)",99,1.077955e-04
+"PCG + IC(0)",100,1.104474e-04
+"PCG + IC(0)",101,1.251113e-04
+"PCG + IC(0)",102,1.314588e-04
+"PCG + IC(0)",103,1.399056e-04
+"PCG + IC(0)",104,1.396447e-04
+"PCG + IC(0)",105,1.280719e-04
+"PCG + IC(0)",106,1.141173e-04
+"PCG + IC(0)",107,8.855025e-05
+"PCG + IC(0)",108,7.192790e-05
+"PCG + IC(0)",109,5.259845e-05
+"PCG + IC(0)",110,4.356671e-05
+"PCG + IC(0)",111,3.549506e-05
+"PCG + IC(0)",112,3.189196e-05
+"PCG + IC(0)",113,2.733925e-05
+"PCG + IC(0)",114,2.107476e-05
+"PCG + IC(0)",115,1.586786e-05
+"PCG + IC(0)",116,1.185672e-05
+"PCG + IC(0)",117,1.117750e-05
+"PCG + IC(0)",118,1.064750e-05
+"PCG + IC(0)",119,8.972522e-06
+"PCG + IC(0)",120,6.422487e-06
+"PCG + IC(0)",121,4.916081e-06
+"PCG + IC(0)",122,5.141712e-06
+"PCG + IC(0)",123,5.107518e-06
+"PCG + IC(0)",124,4.066984e-06
+"PCG + IC(0)",125,3.208553e-06
+"PCG + IC(0)",126,3.298012e-06
+"PCG + IC(0)",127,3.432397e-06
+"PCG + IC(0)",128,2.606569e-06
+"PCG + IC(0)",129,2.264243e-06
+"PCG + IC(0)",130,2.448075e-06
+"PCG + IC(0)",131,2.063386e-06
+"PCG + IC(0)",132,1.618121e-06
+"PCG + IC(0)",133,1.626402e-06
+"PCG + IC(0)",134,1.503836e-06
+"PCG + IC(0)",135,1.147885e-06
+"PCG + IC(0)",136,1.101012e-06
+"PCG + IC(0)",137,1.063813e-06
+"PCG + IC(0)",138,8.243949e-07
+"PCG + IC(0)",139,8.083423e-07
+"PCG + IC(0)",140,7.891627e-07
+"PCG + IC(0)",141,6.252783e-07
+"PCG + IC(0)",142,6.401639e-07
+"PCG + IC(0)",143,5.915813e-07
+"PCG + IC(0)",144,4.760450e-07
+"PCG + IC(0)",145,4.849628e-07
+"PCG + IC(0)",146,3.926624e-07
+"PCG + IC(0)",147,3.250764e-07
+"PCG + IC(0)",148,3.042081e-07
+"PCG + IC(0)",149,2.208106e-07
+"PCG + IC(0)",150,1.928888e-07
+"PCG + IC(0)",151,1.558042e-07
+"PCG + IC(0)",152,1.155542e-07
+"PCG + IC(0)",153,1.058246e-07
+"PCG + IC(0)",154,8.028854e-08
+"PCG + IC(0)",155,7.658368e-08
+"PCG + IC(0)",156,7.490160e-08
+"PCG + IC(0)",157,7.535875e-08
+"PCG + IC(0)",158,9.577458e-08
+"PCG + IC(0)",159,1.000477e-07
+"PCG + IC(0)",160,1.250685e-07
+"PCG + IC(0)",161,1.254968e-07
+"PCG + IC(0)",162,1.223503e-07
+"PCG + IC(0)",163,1.161836e-07
+"PCG + IC(0)",164,9.983160e-08
+"PCG + IC(0)",165,1.063809e-07
+"PCG + IC(0)",166,1.001313e-07
+"PCG + IC(0)",167,1.160005e-07
+"PCG + IC(0)",168,1.056652e-07
+"PCG + IC(0)",169,9.903530e-08
+"PCG + IC(0)",170,7.785807e-08
+"PCG + IC(0)",171,6.169479e-08
+"PCG + IC(0)",172,5.144844e-08
+"PCG + IC(0)",173,4.217138e-08
+"PCG + IC(0)",174,3.882885e-08
+"PCG + IC(0)",175,3.060413e-08
+"PCG + IC(0)",176,2.724293e-08
+"PCG + IC(0)",177,2.102325e-08
+"PCG + IC(0)",178,2.043449e-08
+"PCG + IC(0)",179,1.776149e-08
+"PCG + IC(0)",180,1.760893e-08
+"PCG + IC(0)",181,1.398633e-08
+"PCG + IC(0)",182,1.266096e-08
+"PCG + IC(0)",183,1.059839e-08
+"PCG + IC(0)",184,1.028095e-08
+"PCG + IC(0)",185,8.324066e-09
+"Multigrid V(2,2)",1,1.578353e-01
+"Multigrid V(2,2)",2,1.763665e-02
+"Multigrid V(2,2)",3,1.971523e-03
+"Multigrid V(2,2)",4,2.204655e-04
+"Multigrid V(2,2)",5,2.466202e-05
+"Multigrid V(2,2)",6,2.759753e-06
+"Multigrid V(2,2)",7,3.089411e-07
+"Multigrid V(2,2)",8,3.459886e-08
+"Multigrid V(2,2)",9,3.876615e-09
